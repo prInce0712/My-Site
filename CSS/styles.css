@@ -1,0 +1,149 @@
+
+body{
+
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+
+}
+hr{
+  border: dotted #999b84 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:0 50% 0 50%;
+position: absolute;
+  }
+
+h1{
+color: #66bfbf;
+line-height:2;
+font-size: 5.625rem;
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+text-align: center;
+
+}
+
+h2{
+  color: #66bfbf;
+  font-weight: normal;
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size: 2.05rem;
+  text-align: center;
+
+}
+
+h3{
+  font-family: 'Hachi Maru Pop', cursive;
+  color: #11999e;
+}
+
+a{
+  color:#11999e;
+}
+
+p{
+  line-height: 2;
+}
+.top-container{
+    background-color:#184d47;
+    position:  relative;
+    padding-top: 100px;
+}
+.middle-container{
+  margin: 0;
+}
+
+.intro{
+  width:30%;
+  margin: auto;
+
+}
+
+.cloud-bottom{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+
+}
+.cloud-top{
+  position: absolute;
+  right:400px;
+  top: 50px;
+
+}
+.profile{
+
+  background-color:#96bb7c;
+  padding: 50px 80px;
+
+}
+
+.skills{
+
+background-color:#d6efc7;
+padding: 50px 80px;
+margin: 0;
+}
+.skill-row{
+width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+
+}
+.web-img{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.call-img{
+  width:25%;
+  float:right;
+
+}
+.contact-me{
+  background-color: #ff884b;
+  padding: 50px 80px;
+}
+.bottom-container{
+  background-color: #fad586;
+  padding: 50px 80px;
+  margin: 0;
+
+}
+.contact{
+  padding: 20px;
+}
+
+.button{
+  font-size: 16px;
+  text-decoration: none;
+  color: #11999e;
+  border: #11999e 1px solid;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-top: 25px;
+  font-weight: bold;
+}
+.button:hover{
+  background:#f5b461;
+  color: #f37121;
+}
+
+.footer-link{
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.footer-link:hover{
+  color:#f5b461;
+}
+
+.footer{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
